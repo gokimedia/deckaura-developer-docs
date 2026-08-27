@@ -12,6 +12,16 @@ Open the public dataset on [Hugging Face](https://huggingface.co/datasets/Blacik
 npm install tarot-card-meanings
 ```
 
+The npm package currently exposes the 22 Major Arcana cards. Use the open dataset or Python package when you need all 78 cards.
+
+## Deno and JSR
+
+```bash
+deno add jsr:@deckaura/tarot-card-meanings
+```
+
+The JSR package currently exposes the 22 Major Arcana cards.
+
 ## Python
 
 ```bash
@@ -26,5 +36,5 @@ Run the Deckaura MCP server without installing it globally:
 npx -y @deckaura/tarot-mcp-server
 ```
 
-Each resource is backed by Deckaura's maintained [78-card meaning database](https://deckaura.com/pages/tarot-card-database).
+The canonical dataset and MCP server are backed by Deckaura's maintained [78-card meaning database](https://deckaura.com/pages/tarot-card-database). Package coverage is listed explicitly in the [integration guide](packages.md).
 

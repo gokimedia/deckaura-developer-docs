@@ -4,6 +4,6 @@
 * [Quickstart](quickstart.md)
 * [Tarot dataset](dataset.md)
 * [MCP server](mcp-server.md)
-* [Packages](packages.md)
+* [Packages and language integrations](packages.md)
 * [Citation and attribution](citation.md)
 
