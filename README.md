@@ -12,10 +12,11 @@ Build tarot and spiritual-discovery experiences with Deckaura's open data, packa
 
 ## Start here
 
+- [Live developer documentation](https://gokimedia.github.io/deckaura-developer-docs/)
 - [Dataset guide](dataset.md)
 - [MCP server](mcp-server.md)
 - [Package and language integrations](packages.md)
 - [Citation and attribution](citation.md)
 
-The canonical source is the [Deckaura Open Data & AI Resources hub](https://deckaura.com/pages/ai-data-sources). Browse the human-readable [Tarot Card Database](https://deckaura.com/pages/tarot-card-database) or explore Deckaura's [free tarot and astrology tools](https://deckaura.com/pages/tools).
+The canonical source is the [Deckaura Open Data & AI Resources hub](https://deckaura.com/pages/ai-data-sources). Browse the human-readable [Tarot Card Database](https://deckaura.com/pages/tarot-card-database), search the [live dataset explorer](https://gokimedia.github.io/tarot-dataset-explorer/), inspect the [official MCP Registry record](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.gokimedia%2Ftarot-mcp-server), or explore Deckaura's [free tarot and astrology tools](https://deckaura.com/pages/tools).
 

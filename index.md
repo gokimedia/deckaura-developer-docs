@@ -21,4 +21,6 @@ Build tarot and spiritual-discovery experiences with Deckaura's open data, packa
 - [Tarot Card Database](https://deckaura.com/pages/tarot-card-database)
 - [Hugging Face dataset](https://huggingface.co/datasets/Blacik/deckaura-tarot-card-meanings)
 - [Permanent Zenodo DOI archive](https://doi.org/10.5281/zenodo.19475329)
+- [Live tarot dataset explorer](https://gokimedia.github.io/tarot-dataset-explorer/)
 - [Official MCP Registry listing](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.gokimedia%2Ftarot-mcp-server)
+- [Verified MCPB releases](https://github.com/gokimedia/tarot-mcp-server/releases)
