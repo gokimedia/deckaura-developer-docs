@@ -1,0 +1,9 @@
+title: Deckaura Developer Documentation
+description: Open tarot data, language packages, citation guidance, and Model Context Protocol integration.
+url: "https://gokimedia.github.io"
+baseurl: "/deckaura-developer-docs"
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+show_downloads: false
